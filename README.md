@@ -38,3 +38,9 @@ Start the server
   streamlit run app.py
 ```
 
+Download dataset
+
+```bash
+   https://drive.google.com/file/d/1_oeHWfS3Rkoqd-_53re7EzyfXVq810EP/view?usp=sharing
+```
+
